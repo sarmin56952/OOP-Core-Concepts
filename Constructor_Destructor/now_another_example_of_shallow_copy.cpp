@@ -31,8 +31,7 @@ int main()
     p2.displayDetails(2);
        cout<<"After modifying Painting 2:"<<endl;
        p2.updateTitle("The Starry Night");
-
- p1.displayDetails(1);
+p1.displayDetails(1);
     p2.displayDetails(2);
 
 }
